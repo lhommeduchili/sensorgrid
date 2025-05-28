@@ -1,5 +1,5 @@
 # sensorgrid
-### Real-time temperature monitoring system with an ESP32 microcontroller and a Raspberry Pi computer.
+## Real-time temperature monitoring system with an ESP32 microcontroller and a Raspberry Pi computer.
 
 Complete IoT system that reads temperature data from multiple DS18B20 sensors connected to an ESP32 HUZZAH32 Feather, transmits the data over Wi-Fi via MQTT, and visualizes it in real time on a web server hosted by a Raspberry Pi.
 
