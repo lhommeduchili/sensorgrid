@@ -5,7 +5,7 @@ Complete IoT system that reads temperature data from multiple DS18B20 sensors co
 
 It is designed to learn and apply standard hardware/software interfacing practices, including MQTT communication, web development, and embedded systems programming.
 
---
+---
 
 ### 🔧 Features
 * 📡 ESP32 reads temperature from up to 5 DS18B20 sensors via OneWire.
@@ -15,7 +15,7 @@ It is designed to learn and apply standard hardware/software interfacing practic
 * 🖥️ Web dashboard accessible locally or remotely (e.g., via ngrok or port forwarding).
 * 💾 Easily extendable to include data logging, historical visualization, or remote control features.
 
---
+---
 
 ### 📦 Tech Stack
 #### Microcontroller (ESP32 HUZZAH32 Feather)
@@ -30,7 +30,7 @@ It is designed to learn and apply standard hardware/software interfacing practic
 * Plotly.js (frontend visualization)
 * Socket.IO (real-time updates)
 
---
+---
 
 ### 🚀 Getting Started
 1. Flash the ESP32 with the Arduino sketch to read and publish temperatures.
